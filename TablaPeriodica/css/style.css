@@ -1,0 +1,315 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  .arriba{
+    
+   margin-top: 3%;
+  }
+
+
+
+.h1{
+text-align: center;
+color: indigo;
+
+}
+
+
+
+.columnas{
+width: 60px;
+height: 30px;
+border-style: solid;
+text-align: center;
+position: relative;
+background-color: aqua;
+}
+
+
+.columnasd{
+    width: 100px;
+    height: 30px;
+    border-style: solid;
+    text-align: center;
+    position: relative;
+    background-color: red;
+    }
+
+    .alcalinos{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        text-align: center;
+        position: relative;
+        top: 2px;
+        background-color: blueviolet;
+    }
+
+    .alcalinoterros{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 70px;
+        bottom: 214px;
+        background-color: darkorchid;
+        
+    }
+    .sr{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        left: 140px;
+        bottom: 357px;
+        background-color: rgb(241, 179, 9);
+
+
+    }
+    .y{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        right:560px;
+        bottom: 322px;
+        background-color: rgb(241, 179, 9);
+    }
+    .la{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        left: 140px;
+        bottom: 322px;
+        background-color: sandybrown;
+    }
+    .ac{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        left: 70px;
+        bottom: 287px;
+        background-color: rgb(214, 86, 27);
+    }
+    .hf{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        left: 70px;
+        bottom:322px;  
+        background-color: rgb(241, 179, 9);
+    }
+    .cd{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        bottom: 358px;  
+        background-color: rgb(241, 179, 9);
+    }
+    .rf{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        right: 630px;
+        bottom: 287px;
+        background-color: rgb(241, 179, 9);
+    }
+    .rg{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        left: 700px;
+        bottom: 322px; 
+        background-color: rgb(241, 179, 9);
+    }
+    .al{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 840px;
+        bottom: 502px;
+        background-color: rgb(241, 237, 9);
+    }
+    .br{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 840px;
+        bottom: 717px;
+        background-color: rgb(64, 114, 22);
+    }
+    .fl{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        left: 910px;
+        bottom: 574px;
+        background-color: rgb(241, 237, 9);
+    }
+    .flu{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 1120px;
+        bottom: 790px;
+        background-color: rgb(101, 171, 228);
+    }
+    .he{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 1190px;
+        bottom: 1042px;
+        background-color: rgb(62, 155, 231);
+    }
+    .sn{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 910px;
+        bottom: 1150px;
+        background-color: rgb(241, 237, 9);
+    }
+    .bi{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 980px;
+        bottom: 1185px;
+        background-color: rgb(241, 237, 9);
+    }
+    .c{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        left: 910px;
+        bottom: 1365px;
+        background-color: aqua;
+    }
+    .s{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 1050px;
+        bottom: 1365px;
+        background-color: aqua;
+    }
+    .p{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 980px;
+        bottom: 1437px;
+        background-color: aqua;
+    }
+    .si{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 910px;
+        bottom: 1473px;
+        background-color: rgb(64, 114, 22);
+    }
+    .as{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 980px;
+        bottom: 1509px;
+        background-color: rgb(64, 114, 22);
+    }
+    .te{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        position: relative;
+        text-align: center;
+        left: 1050px;
+        bottom: 1545px;
+        background-color: rgb(64, 114, 22);
+    }
+    .lan{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        left: 210px;
+        bottom: 1470px;
+        background-color: sandybrown;
+    }
+    .act{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        left: -840px;
+        bottom: 1430px;
+        background-color: rgb(214, 86, 27);
+    }
+    .np{
+        width: 60px;
+        height: 30px;
+        border-style: solid;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+       left: 490px;
+       bottom: 1465px;
+        background-color: rgb(214, 86, 27);
+    }
+
+    
